@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\south\\source\\repos\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18208C13-CF6C-45D6-A739-A4D788518740}|Workspace\\Workspace.csproj|c:\\users\\south\\source\\repos\\solution1\\workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18208C13-CF6C-45D6-A739-A4D788518740}|Workspace\\Workspace.csproj|solutionrelative:workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520BA125-BBBD-4062-BBC3-F81D7E74EB5D}|Entities\\Entities.csproj|c:\\users\\south\\source\\repos\\solution1\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520BA125-BBBD-4062-BBC3-F81D7E74EB5D}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E151012E-3964-40B4-9AEE-B70D75403EF0}|Business\\Business.csproj|c:\\users\\south\\source\\repos\\solution1\\business\\connected services\\mernisservicereference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E151012E-3964-40B4-9AEE-B70D75403EF0}|Business\\Business.csproj|solutionrelative:business\\connected services\\mernisservicereference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Solution1\\Workspace\\Program.cs",
+              "RelativeDocumentMoniker": "Workspace\\Program.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Solution1\\Workspace\\Program.cs",
+              "RelativeToolTip": "Workspace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T21:58:43.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Solution1\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Solution1\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T21:58:42.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Solution1\\Business\\Connected Services\\MernisServiceReference\\ConnectedService.json",
+              "RelativeDocumentMoniker": "Business\\Connected Services\\MernisServiceReference\\ConnectedService.json",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Solution1\\Business\\Connected Services\\MernisServiceReference\\ConnectedService.json",
+              "RelativeToolTip": "Business\\Connected Services\\MernisServiceReference\\ConnectedService.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T21:58:30.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
