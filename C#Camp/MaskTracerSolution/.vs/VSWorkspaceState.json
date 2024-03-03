@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business",
+    "\\Business\\Abstract",
+    "\\Business\\Concrete",
+    "\\Business\\Connected Services",
+    "\\Business\\Properties",
+    "\\Entities",
+    "\\Entities\\Concrete",
+    "\\Workspace"
+  ],
+  "SelectedNode": "\\Workspace\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

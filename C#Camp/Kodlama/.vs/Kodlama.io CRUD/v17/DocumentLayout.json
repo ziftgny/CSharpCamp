@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\south\\source\\repos\\Kodlama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\dataaccess\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dataaccess\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\entity\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entity\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\business\\abstracts\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\business\\abstracts\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\business\\abstracts\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\business\\abstracts\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\business\\concretes\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\business\\concretes\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\business\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\business\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\business\\concretes\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\business\\concretes\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\dataaccess\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dataaccess\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\dataaccess\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dataaccess\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\business\\concretes\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\business\\concretes\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\south\\source\\repos\\kodlama\\consoleapp1\\dataaccess\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EFD1FE-A2EC-420E-BEA1-CF0F0F5DF528}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dataaccess\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T17:32:05.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Abstracts\\ICourseService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Business\\Abstracts\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Abstracts\\ICourseService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Business\\Abstracts\\ICourseService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:01:33.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInstructorService.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Abstracts\\IInstructorService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Business\\Abstracts\\IInstructorService.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Abstracts\\IInstructorService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Business\\Abstracts\\IInstructorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:52:37.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:02:55.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Concretes\\CategoryDal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DataAccess\\Concretes\\CategoryDal.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Concretes\\CategoryDal.cs",
+              "RelativeToolTip": "ConsoleApp1\\DataAccess\\Concretes\\CategoryDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:56:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Entity\\Category.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entity\\Category.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:03:02.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Entity\\Course.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entity\\Course.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Entity\\Course.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entity\\Course.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:02:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Entity\\Instructor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entity\\Instructor.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Entity\\Instructor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entity\\Instructor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:12:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Concretes\\CourseManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Business\\Concretes\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Concretes\\CourseManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\Business\\Concretes\\CourseManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:02:52.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Abstracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Business\\Abstracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Abstracts\\ICategoryService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Business\\Abstracts\\ICategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:51:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Concretes\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Business\\Concretes\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Concretes\\CategoryManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\Business\\Concretes\\CategoryManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:53:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DataAccess\\Concretes\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeToolTip": "ConsoleApp1\\DataAccess\\Concretes\\CourseDal.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:58:05.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "ConsoleApp1\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:58:49.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IInstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "RelativeToolTip": "ConsoleApp1\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:42:43.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Concretes\\InstructorDal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DataAccess\\Concretes\\InstructorDal.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Concretes\\InstructorDal.cs",
+              "RelativeToolTip": "ConsoleApp1\\DataAccess\\Concretes\\InstructorDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:43:30.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Concretes\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Business\\Concretes\\InstructorManager.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\Business\\Concretes\\InstructorManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\Business\\Concretes\\InstructorManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:58:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\south\\source\\repos\\Kodlama\\ConsoleApp1\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "RelativeToolTip": "ConsoleApp1\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:42:50.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
